@@ -1610,7 +1610,7 @@ function Hero() {
             >
               Hello, I'm
             </motion.p>
-            <span className="font-mono text-[11px] text-charcoal/40">No. 01 / Portfolio</span>
+            
           </div>
 
           {/* Word-by-word name reveal with mask */}
