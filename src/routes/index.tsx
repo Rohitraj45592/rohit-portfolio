@@ -1520,7 +1520,7 @@ function Nav({ theme, toggleTheme }: { theme: "light" | "dark"; toggleTheme: () 
             </AnimatePresence>
           </button>
           <a
-            href="/Rohit Raj.pdf"
+            href="/Rohit_Raj_Resume.pdf"
             download="Rohit_Raj_Resume.pdf"
             className="hidden items-center gap-1.5 rounded-full border border-charcoal/20 px-3.5 py-1.5 text-xs font-medium text-charcoal transition-all hover:border-terracotta hover:text-terracotta md:inline-flex"
           >
