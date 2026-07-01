@@ -2025,13 +2025,13 @@ const RESUME_SEGMENTS = [
     citations: ["#achievements"]
   },
   {
-    keywords: ["education", "college", "study", "smvitm", "udupi", "cgpa", "marks", "grade", "university", "qualification"],
+    keywords: ["education", "college", "study", "kit", "varanasi", "cgpa", "marks", "grade", "university", "qualification"],
     title: "Academic Background",
     content: "Rohit Raj is pursuing a B.Tech in Computer Science & Engineering (AI & ML) at Kashi Institute of Technology, Varanasi. He is in the 2024 - 2028 batch and maintains a CGPA of 8.63, placing him in the top 15% of his batch.",
     citations: ["#education"]
   },
   {
-    keywords: ["experience", "work", "job", "intern", "internship", "antarita", "systemtron", "journeybuddy", "roles"],
+     keywords: ["experience", "work", "job", "intern", "internship", "ibm", "ibm cep", "roles"],
     title: "Work Experience",
     content: "Rohit has completed an IBM CEP Virtual Internship (Jul - Aug 2025) as a Web & Mobile Development Intern, finishing in the top 15% of the cohort and earning a Rs. 4,000 stipend. He delivered 3+ front-end projects in HTML5, CSS3 & JavaScript.",
     citations: ["#experience"]
@@ -2043,13 +2043,13 @@ const RESUME_SEGMENTS = [
     citations: ["#skills"]
   },
   {
-    keywords: ["varnothsava", "fest", "college fest", "website", "ticket", "payment", "razorpay"],
+    keywords: ["portfolio", "website", "react", "framer motion", "personal site", "animated"],
     title: "GyanSetu AI — GenAI Student ERP",
     content: "GyanSetu AI is a production-deployed full-stack GenAI ERP built by Rohit with Next.js, TypeScript, FastAPI, PostgreSQL, and LLM APIs. Students can query attendance, marks & timetable in natural language; the AI converts queries to SQL and returns real-time data. It has 84+ GitHub commits and is live on Vercel.",
     citations: ["#work"]
   },
   {
-    keywords: ["hackathon", "hackathons", "wins", "trophy", "awards", "canara", "acu"],
+    : keywords: ["hackathon", "achievements", "wins", "trophy", "awards", "ibm", "cgpa", "certificate"],
     title: "Hackathon Awards & Milestones",
     content: "Rohit's key achievements include:\n- IBM CEP Internship Certificate (Jul 2025), finishing in top 15% of cohort.\n- CGPA 8.63, ranking in the top 15% of CSE (AI & ML) batch at KIT Varanasi.\n- Deployed GyanSetu AI on Vercel with 84+ GitHub commits as a production GenAI ERP.",
     citations: ["#achievements"]
@@ -2061,7 +2061,7 @@ const RESUME_SEGMENTS = [
     citations: ["#contact"]
   },
   {
-    keywords: ["judge-it", "judgeit", "judging", "supabase", "platform"],
+    keywords: ["food app", "react food", "ordering", "cart", "food ordering", "usestate", "hooks"],
     title: "JudgeIt Platform",
     content: "JudgeIt is a production-hardened, full-stack judging platform built with Next.js 14, Supabase, and Tailwind CSS. It is designed to coordinate hackathons, startup pitches, and competitions, enabling organizers to manage judges and input scores in real time.",
     citations: ["#work"]
