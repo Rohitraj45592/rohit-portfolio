@@ -2019,9 +2019,9 @@ function HexCell({
 
 const RESUME_SEGMENTS = [
   {
-    keywords: ["gyansetu", "soil", "nain", "nain 2.0", "funding", "5 lakh", "agriculture", "sensor"],
-    title: "Project GyanSetu AI (IBM CEP Funded)",
-    content: "Project GyanSetu AI is an IoT-enabled smart agriculture assistant that secured Rs. 5 Lakhs in funding from the IBM CEP (New Age Incubation Network) program. It is designed to assist farmers by monitoring real-time soil health, recommending crop configurations, and automating irrigation flows.",
+   keywords: ["gyansetu", "genai", "erp", "text to sql", "student", "attendance", "marks", "timetable", "fastapi", "nextjs", "postgresql"],
+    title: "Project GyanSetu AI — GenAI Student ERP",
+    content: "GyanSetu AI is a production-deployed full-stack GenAI Student ERP built by Rohit Raj. Students can query their attendance, marks, and timetable in natural language — the AI converts queries to SQL and returns real-time data. Built with Next.js, TypeScript, FastAPI, SQLAlchemy, PostgreSQL, Supabase, LLM APIs, and JWT Auth. Live at gyansetu-ai-obxu.vercel.app with 84+ GitHub commits.",
     citations: ["#achievements"]
   },
   {
